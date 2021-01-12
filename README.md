@@ -3,7 +3,7 @@ The Ask: Analyze district-wide standardized test results. Aggregate the data to 
 Provided: access to every student's math and reading scores, as well as various information on the schools they attend.
 The final report should include the following:
 
-## District Summary
+District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
   Total Schools
   Total Students
